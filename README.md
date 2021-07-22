@@ -1,2 +1,2 @@
 ## demo
-### [Live site](https://sabbirhosan.github.io/demo/index.html)
+### [Live site](https://sabbirhosan.github.io/demo/)
